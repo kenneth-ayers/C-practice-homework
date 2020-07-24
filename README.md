@@ -1,2 +1,2 @@
-# C-practice-homework
+C#-practice-homework
 C# practice
